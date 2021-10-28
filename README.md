@@ -27,3 +27,6 @@ A good guide for windows is found here: https://meshtastic.discourse.group/t/tut
 Please be aware, that there a different chips for the uart communication. On my TTGO T-Beam devices I had to use this Driver: https://meshtastic.discourse.group/t/t-beam-ch9201-drivers/3875
 
 Additional packages for Python which are needed are: numpy, geopy and folium.
+
+## Disclaimer
+Please be aware that this is a hobby project. Therefore I don't have much time to resolve issues and provide support. Nevertheless I wanted to provide this little project to the community. If I have an idea for other intresting features or there is a bug which is unbearable for me I will put further work into the project. If not please take it "as is".
