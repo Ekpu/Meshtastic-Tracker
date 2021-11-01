@@ -19,7 +19,7 @@ The map will be recreated every time a packet with a location is received.
 The website needs do be reloaded manually.
 
 ## Usage
-Connect one of your Meshtastic devices to you computer and run the script. As soon as the devices received a packet with locations the script will create the map as map.html and you will get the notification "map created".
+Connect one of your Meshtastic devices to your computer and run the script. As soon as the a packet with locations is received the script will create the map as map.html and you will get the notification "map created".
 Now you can open map.html Ind your favourite browser. To update the map you just have to reload the website.
 
 ## Installation
